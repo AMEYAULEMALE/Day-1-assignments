@@ -1,0 +1,6 @@
+C:\Users\test\Documents\Visual Studio 2015\30 nov\Arr\Arr\bin\Debug\Arr.exe.config
+C:\Users\test\Documents\Visual Studio 2015\30 nov\Arr\Arr\obj\Debug\Arr.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2015\30 nov\Arr\Arr\bin\Debug\Arr.exe
+C:\Users\test\Documents\Visual Studio 2015\30 nov\Arr\Arr\bin\Debug\Arr.pdb
+C:\Users\test\Documents\Visual Studio 2015\30 nov\Arr\Arr\obj\Debug\Arr.exe
+C:\Users\test\Documents\Visual Studio 2015\30 nov\Arr\Arr\obj\Debug\Arr.pdb
